@@ -1,0 +1,10 @@
+C:\Учёба\.NET\TODOLIst\TODOLIst\bin\Debug\TODOLIst.exe.config
+C:\Учёба\.NET\TODOLIst\TODOLIst\bin\Debug\TODOLIst.exe
+C:\Учёба\.NET\TODOLIst\TODOLIst\bin\Debug\TODOLIst.pdb
+C:\Учёба\.NET\TODOLIst\TODOLIst\obj\Debug\TODOLIst.csproj.AssemblyReference.cache
+C:\Учёба\.NET\TODOLIst\TODOLIst\obj\Debug\TODOLIst.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\TODOLIst\TODOLIst\obj\Debug\TODOLIst.exe
+C:\Учёба\.NET\TODOLIst\TODOLIst\obj\Debug\TODOLIst.pdb
+C:\Учёба\.NET\TODOLIst\TODOLIst\bin\Debug\Newtonsoft.Json.dll
+C:\Учёба\.NET\TODOLIst\TODOLIst\bin\Debug\Newtonsoft.Json.xml
+C:\Учёба\.NET\TODOLIst\TODOLIst\obj\Debug\TODOLIst.csproj.Up2Date

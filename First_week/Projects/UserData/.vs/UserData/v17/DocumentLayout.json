@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\UserData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D1C8C4-3291-47FC-84C9-F288FA983F09}|UserData\\UserData.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\UserData\\userdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D1C8C4-3291-47FC-84C9-F288FA983F09}|UserData\\UserData.csproj|solutionrelative:userdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D1C8C4-3291-47FC-84C9-F288FA983F09}|UserData\\UserData.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\userdata\\userdata\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D1C8C4-3291-47FC-84C9-F288FA983F09}|UserData\\UserData.csproj|solutionrelative:userdata\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\UserData\\UserData\\User.cs",
+              "RelativeDocumentMoniker": "UserData\\User.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\UserData\\UserData\\User.cs",
+              "RelativeToolTip": "UserData\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:15:13.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\UserData\\UserData\\Program.cs",
+              "RelativeDocumentMoniker": "UserData\\Program.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\UserData\\UserData\\Program.cs",
+              "RelativeToolTip": "UserData\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:14:34.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

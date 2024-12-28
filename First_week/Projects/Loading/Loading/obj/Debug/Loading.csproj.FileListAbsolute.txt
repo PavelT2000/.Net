@@ -1,0 +1,7 @@
+C:\Учёба\.NET\Projects\Loading\Loading\obj\Debug\Loading.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Projects\Loading\Loading\obj\Debug\Loading.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Projects\Loading\Loading\bin\Debug\Loading.exe.config
+C:\Учёба\.NET\Projects\Loading\Loading\bin\Debug\Loading.exe
+C:\Учёба\.NET\Projects\Loading\Loading\bin\Debug\Loading.pdb
+C:\Учёба\.NET\Projects\Loading\Loading\obj\Debug\Loading.exe
+C:\Учёба\.NET\Projects\Loading\Loading\obj\Debug\Loading.pdb

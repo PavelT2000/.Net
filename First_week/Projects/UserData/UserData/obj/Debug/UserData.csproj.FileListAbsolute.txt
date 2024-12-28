@@ -1,0 +1,7 @@
+C:\Учёба\.NET\UserData\UserData\bin\Debug\UserData.exe.config
+C:\Учёба\.NET\UserData\UserData\bin\Debug\UserData.exe
+C:\Учёба\.NET\UserData\UserData\bin\Debug\UserData.pdb
+C:\Учёба\.NET\UserData\UserData\obj\Debug\UserData.csproj.AssemblyReference.cache
+C:\Учёба\.NET\UserData\UserData\obj\Debug\UserData.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\UserData\UserData\obj\Debug\UserData.exe
+C:\Учёба\.NET\UserData\UserData\obj\Debug\UserData.pdb

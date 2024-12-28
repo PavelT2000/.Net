@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileReader", "TextFileReader\TextFileReader.csproj", "{D50B1535-C0A9-445F-A883-6B8F6BCE6A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D50B1535-C0A9-445F-A883-6B8F6BCE6A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50B1535-C0A9-445F-A883-6B8F6BCE6A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50B1535-C0A9-445F-A883-6B8F6BCE6A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50B1535-C0A9-445F-A883-6B8F6BCE6A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

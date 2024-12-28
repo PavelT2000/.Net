@@ -1,0 +1,7 @@
+C:\Учёба\.NET\Projects\Ready\Ready\obj\Debug\Ready.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Projects\Ready\Ready\obj\Debug\Ready.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Projects\Ready\Ready\bin\Debug\Ready.exe.config
+C:\Учёба\.NET\Projects\Ready\Ready\bin\Debug\Ready.exe
+C:\Учёба\.NET\Projects\Ready\Ready\bin\Debug\Ready.pdb
+C:\Учёба\.NET\Projects\Ready\Ready\obj\Debug\Ready.exe
+C:\Учёба\.NET\Projects\Ready\Ready\obj\Debug\Ready.pdb

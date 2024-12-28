@@ -1,0 +1,14 @@
+C:\Учёба\.NET\Books\Books\bin\Debug\Books.exe.config
+C:\Учёба\.NET\Books\Books\bin\Debug\Books.exe
+C:\Учёба\.NET\Books\Books\bin\Debug\Books.pdb
+C:\Учёба\.NET\Books\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Books\Books\obj\Debug\Books.exe
+C:\Учёба\.NET\Books\Books\obj\Debug\Books.pdb
+C:\Учёба\.NET\Projects\Books\Books\bin\Debug\Books.exe.config
+C:\Учёба\.NET\Projects\Books\Books\bin\Debug\Books.exe
+C:\Учёба\.NET\Projects\Books\Books\bin\Debug\Books.pdb
+C:\Учёба\.NET\Projects\Books\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Projects\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Projects\Books\Books\obj\Debug\Books.exe
+C:\Учёба\.NET\Projects\Books\Books\obj\Debug\Books.pdb

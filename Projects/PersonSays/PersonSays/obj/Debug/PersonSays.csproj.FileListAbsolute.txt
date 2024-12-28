@@ -1,0 +1,14 @@
+C:\Учёба\.NET\PersonSays\PersonSays\bin\Debug\PersonSays.exe.config
+C:\Учёба\.NET\PersonSays\PersonSays\bin\Debug\PersonSays.exe
+C:\Учёба\.NET\PersonSays\PersonSays\bin\Debug\PersonSays.pdb
+C:\Учёба\.NET\PersonSays\PersonSays\obj\Debug\PersonSays.csproj.AssemblyReference.cache
+C:\Учёба\.NET\PersonSays\PersonSays\obj\Debug\PersonSays.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\PersonSays\PersonSays\obj\Debug\PersonSays.exe
+C:\Учёба\.NET\PersonSays\PersonSays\obj\Debug\PersonSays.pdb
+C:\Учёба\.NET\Projects\PersonSays\PersonSays\bin\Debug\PersonSays.exe.config
+C:\Учёба\.NET\Projects\PersonSays\PersonSays\bin\Debug\PersonSays.exe
+C:\Учёба\.NET\Projects\PersonSays\PersonSays\bin\Debug\PersonSays.pdb
+C:\Учёба\.NET\Projects\PersonSays\PersonSays\obj\Debug\PersonSays.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Projects\PersonSays\PersonSays\obj\Debug\PersonSays.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Projects\PersonSays\PersonSays\obj\Debug\PersonSays.exe
+C:\Учёба\.NET\Projects\PersonSays\PersonSays\obj\Debug\PersonSays.pdb

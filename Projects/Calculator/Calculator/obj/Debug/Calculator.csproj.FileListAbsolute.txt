@@ -1,0 +1,14 @@
+C:\Учёба\.NET\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Учёба\.NET\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Учёба\.NET\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Учёба\.NET\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Учёба\.NET\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Учёба\.NET\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Учёба\.NET\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Учёба\.NET\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Учёба\.NET\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Учёба\.NET\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb

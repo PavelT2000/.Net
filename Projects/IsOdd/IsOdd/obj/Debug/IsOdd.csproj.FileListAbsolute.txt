@@ -1,0 +1,14 @@
+C:\Учёба\.NET\IsOdd\IsOdd\bin\Debug\IsOdd.exe.config
+C:\Учёба\.NET\IsOdd\IsOdd\bin\Debug\IsOdd.exe
+C:\Учёба\.NET\IsOdd\IsOdd\bin\Debug\IsOdd.pdb
+C:\Учёба\.NET\IsOdd\IsOdd\obj\Debug\IsOdd.csproj.AssemblyReference.cache
+C:\Учёба\.NET\IsOdd\IsOdd\obj\Debug\IsOdd.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\IsOdd\IsOdd\obj\Debug\IsOdd.exe
+C:\Учёба\.NET\IsOdd\IsOdd\obj\Debug\IsOdd.pdb
+C:\Учёба\.NET\Projects\IsOdd\IsOdd\bin\Debug\IsOdd.exe.config
+C:\Учёба\.NET\Projects\IsOdd\IsOdd\bin\Debug\IsOdd.exe
+C:\Учёба\.NET\Projects\IsOdd\IsOdd\bin\Debug\IsOdd.pdb
+C:\Учёба\.NET\Projects\IsOdd\IsOdd\obj\Debug\IsOdd.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Projects\IsOdd\IsOdd\obj\Debug\IsOdd.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Projects\IsOdd\IsOdd\obj\Debug\IsOdd.exe
+C:\Учёба\.NET\Projects\IsOdd\IsOdd\obj\Debug\IsOdd.pdb

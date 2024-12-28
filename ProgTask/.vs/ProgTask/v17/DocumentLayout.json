@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\ProgTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0AC003B-B0DF-4B65-9F18-7C35412494B1}|ProgTask\\ProgTask.vcxproj|C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\ProgTask\\ProgTask\\ProgTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0AC003B-B0DF-4B65-9F18-7C35412494B1}|ProgTask\\ProgTask.vcxproj|solutionrelative:ProgTask\\ProgTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgTask.cpp",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\ProgTask\\ProgTask\\ProgTask.cpp",
+              "RelativeDocumentMoniker": "ProgTask\\ProgTask.cpp",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\ProgTask\\ProgTask\\ProgTask.cpp",
+              "RelativeToolTip": "ProgTask\\ProgTask.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T13:29:01.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

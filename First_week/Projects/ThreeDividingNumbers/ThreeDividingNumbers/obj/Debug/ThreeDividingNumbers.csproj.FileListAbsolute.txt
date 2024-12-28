@@ -1,0 +1,14 @@
+C:\Учёба\.NET\ThreeDividingNumbers\ThreeDividingNumbers\bin\Debug\ThreeDividingNumbers.exe.config
+C:\Учёба\.NET\ThreeDividingNumbers\ThreeDividingNumbers\bin\Debug\ThreeDividingNumbers.exe
+C:\Учёба\.NET\ThreeDividingNumbers\ThreeDividingNumbers\bin\Debug\ThreeDividingNumbers.pdb
+C:\Учёба\.NET\ThreeDividingNumbers\ThreeDividingNumbers\obj\Debug\ThreeDividingNumbers.csproj.AssemblyReference.cache
+C:\Учёба\.NET\ThreeDividingNumbers\ThreeDividingNumbers\obj\Debug\ThreeDividingNumbers.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\ThreeDividingNumbers\ThreeDividingNumbers\obj\Debug\ThreeDividingNumbers.exe
+C:\Учёба\.NET\ThreeDividingNumbers\ThreeDividingNumbers\obj\Debug\ThreeDividingNumbers.pdb
+C:\Учёба\.NET\Projects\ThreeDividingNumbers\ThreeDividingNumbers\bin\Debug\ThreeDividingNumbers.exe.config
+C:\Учёба\.NET\Projects\ThreeDividingNumbers\ThreeDividingNumbers\bin\Debug\ThreeDividingNumbers.exe
+C:\Учёба\.NET\Projects\ThreeDividingNumbers\ThreeDividingNumbers\bin\Debug\ThreeDividingNumbers.pdb
+C:\Учёба\.NET\Projects\ThreeDividingNumbers\ThreeDividingNumbers\obj\Debug\ThreeDividingNumbers.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Projects\ThreeDividingNumbers\ThreeDividingNumbers\obj\Debug\ThreeDividingNumbers.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Projects\ThreeDividingNumbers\ThreeDividingNumbers\obj\Debug\ThreeDividingNumbers.exe
+C:\Учёба\.NET\Projects\ThreeDividingNumbers\ThreeDividingNumbers\obj\Debug\ThreeDividingNumbers.pdb

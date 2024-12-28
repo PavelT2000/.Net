@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Projects\\PersonSays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D79B400D-39DB-461E-8916-CE39F53BD9B8}|PersonSays\\PersonSays.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\projects\\personsays\\personsays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79B400D-39DB-461E-8916-CE39F53BD9B8}|PersonSays\\PersonSays.csproj|solutionrelative:personsays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79B400D-39DB-461E-8916-CE39F53BD9B8}|PersonSays\\PersonSays.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Projects\\PersonSays\\personsays\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79B400D-39DB-461E-8916-CE39F53BD9B8}|PersonSays\\PersonSays.csproj|solutionrelative:personsays\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Projects\\PersonSays\\PersonSays\\Person.cs",
+              "RelativeDocumentMoniker": "PersonSays\\Person.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Projects\\PersonSays\\PersonSays\\Person.cs",
+              "RelativeToolTip": "PersonSays\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:25:29.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Projects\\PersonSays\\PersonSays\\Program.cs",
+              "RelativeDocumentMoniker": "PersonSays\\Program.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Projects\\PersonSays\\PersonSays\\Program.cs",
+              "RelativeToolTip": "PersonSays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:24:59.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

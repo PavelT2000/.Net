@@ -1,0 +1,7 @@
+C:\Учёба\.NET\Projects\TextFileReader\TextFileReader\bin\Debug\TextFileReader.exe.config
+C:\Учёба\.NET\Projects\TextFileReader\TextFileReader\bin\Debug\TextFileReader.exe
+C:\Учёба\.NET\Projects\TextFileReader\TextFileReader\bin\Debug\TextFileReader.pdb
+C:\Учёба\.NET\Projects\TextFileReader\TextFileReader\obj\Debug\TextFileReader.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Projects\TextFileReader\TextFileReader\obj\Debug\TextFileReader.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Projects\TextFileReader\TextFileReader\obj\Debug\TextFileReader.exe
+C:\Учёба\.NET\Projects\TextFileReader\TextFileReader\obj\Debug\TextFileReader.pdb

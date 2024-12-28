@@ -1,0 +1,7 @@
+C:\Учёба\.NET\Projects\ZereDividingCheck\ZereDividingCheck\bin\Debug\ZereDividingCheck.exe.config
+C:\Учёба\.NET\Projects\ZereDividingCheck\ZereDividingCheck\bin\Debug\ZereDividingCheck.exe
+C:\Учёба\.NET\Projects\ZereDividingCheck\ZereDividingCheck\bin\Debug\ZereDividingCheck.pdb
+C:\Учёба\.NET\Projects\ZereDividingCheck\ZereDividingCheck\obj\Debug\ZereDividingCheck.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Projects\ZereDividingCheck\ZereDividingCheck\obj\Debug\ZereDividingCheck.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Projects\ZereDividingCheck\ZereDividingCheck\obj\Debug\ZereDividingCheck.exe
+C:\Учёба\.NET\Projects\ZereDividingCheck\ZereDividingCheck\obj\Debug\ZereDividingCheck.pdb

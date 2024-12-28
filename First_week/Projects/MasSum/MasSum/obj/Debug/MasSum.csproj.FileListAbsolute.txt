@@ -1,0 +1,14 @@
+C:\Учёба\.NET\MasSum\MasSum\bin\Debug\MasSum.exe.config
+C:\Учёба\.NET\MasSum\MasSum\bin\Debug\MasSum.exe
+C:\Учёба\.NET\MasSum\MasSum\bin\Debug\MasSum.pdb
+C:\Учёба\.NET\MasSum\MasSum\obj\Debug\MasSum.csproj.AssemblyReference.cache
+C:\Учёба\.NET\MasSum\MasSum\obj\Debug\MasSum.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\MasSum\MasSum\obj\Debug\MasSum.exe
+C:\Учёба\.NET\MasSum\MasSum\obj\Debug\MasSum.pdb
+C:\Учёба\.NET\Projects\MasSum\MasSum\bin\Debug\MasSum.exe.config
+C:\Учёба\.NET\Projects\MasSum\MasSum\bin\Debug\MasSum.exe
+C:\Учёба\.NET\Projects\MasSum\MasSum\bin\Debug\MasSum.pdb
+C:\Учёба\.NET\Projects\MasSum\MasSum\obj\Debug\MasSum.csproj.AssemblyReference.cache
+C:\Учёба\.NET\Projects\MasSum\MasSum\obj\Debug\MasSum.csproj.CoreCompileInputs.cache
+C:\Учёба\.NET\Projects\MasSum\MasSum\obj\Debug\MasSum.exe
+C:\Учёба\.NET\Projects\MasSum\MasSum\obj\Debug\MasSum.pdb

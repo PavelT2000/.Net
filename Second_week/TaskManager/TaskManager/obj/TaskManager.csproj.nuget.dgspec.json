@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Учёба\\.NET\\Second_week\\TaskManager\\TaskManager\\TaskManager.csproj": {}
+    "C:\\Учёба\\.Net\\Second_week\\TaskManager\\TaskManager\\TaskManager.csproj": {}
   },
   "projects": {
-    "C:\\Учёба\\.NET\\Second_week\\TaskManager\\TaskManager\\TaskManager.csproj": {
+    "C:\\Учёба\\.Net\\Second_week\\TaskManager\\TaskManager\\TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Учёба\\.NET\\Second_week\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectUniqueName": "C:\\Учёба\\.Net\\Second_week\\TaskManager\\TaskManager\\TaskManager.csproj",
         "projectName": "TaskManager",
-        "projectPath": "C:\\Учёба\\.NET\\Second_week\\TaskManager\\TaskManager\\TaskManager.csproj",
-        "packagesPath": "C:\\Users\\Pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Учёба\\.NET\\Second_week\\TaskManager\\TaskManager\\obj\\",
+        "projectPath": "C:\\Учёба\\.Net\\Second_week\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
+        "outputPath": "C:\\Учёба\\.Net\\Second_week\\TaskManager\\TaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,13 +44,16 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -84,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

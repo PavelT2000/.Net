@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using TODOLIst;
+using Microsoft.EntityFrameworkCore;
 
 namespace TaskManager.Controllers
 {
@@ -9,28 +9,36 @@ namespace TaskManager.Controllers
     [ApiController]
     public class TaskController : ControllerBase
     {
+        private readonly AppDbContext _context;
 
+        public TaskController(AppDbContext context)
+        {
+            _context = context;
+        }
+        
         [HttpGet]
-        public ActionResult<IEnumerable<MyTask>> GetAllTasks()
+        public async Task<ActionResult<IEnumerable<MyTask>>> GetAllTasks()
         {
 
 
-            return Ok(TasksData.GetTasks());
+            return await _context.MyTasks.ToListAsync();
         }
 
 
         [HttpGet("{id}")]
-        public ActionResult<MyTask> GetTaskByID(int id)
+        public async Task<ActionResult<MyTask>> GetTaskByID(int id)
         {
-            return Ok(TasksData.GetTaskById(id));
+            return await _context.MyTasks.FindAsync(id);
         }
 
         [HttpPost]
-        public ActionResult<MyTask> AddTask([FromBody] CreateTaskRequest newTask)
+        public async Task<ActionResult<MyTask>> AddTask([FromBody] MyTask newTask)
         {
             if (newTask != null)
             {
-                TasksData.AddTask(newTask.Title, newTask.Description, newTask.Date);
+                
+                await _context.MyTasks.AddAsync(newTask);
+                _context.SaveChangesAsync();
                 return CreatedAtAction("ОК", newTask); // Возвращаем 201 с данными новой задачи
 
             }
@@ -38,26 +46,54 @@ namespace TaskManager.Controllers
             {
                 return BadRequest("Invalid task data.");
             }
+            
         }
         // Метод для обновления задачи по ID
         [HttpPut("{id}")] // Маршрут: api/tasks/{id}
-        public ActionResult UpdateTask(int id, [FromBody] UpdateTaskRequest updatedTask)
+        public async Task<ActionResult> UpdateTask(int id, [FromBody] MyTask updatedTask)
         {
 
-            var task =TasksData.GetTaskById(id);
-            task.SetName(updatedTask.Title);
-            task.SetDescription(updatedTask.Description);
-            task.SetDate(updatedTask.Date);
-            return Ok(task);    
+            if (id != updatedTask.Id)
+            {
+                return BadRequest("ID задачи в URL не совпадает с ID задачи в теле запроса.");
+            }
 
-            
-            
+            // Ищем задачу в базе данных
+            var existingTask = await _context.MyTasks.FindAsync(id);
+            if (existingTask == null)
+            {
+                return NotFound($"Задача с ID {id} не найдена.");
+            }
+
+            // Обновляем свойства задачи
+            existingTask.Name = updatedTask.Name;
+            existingTask.Description = updatedTask.Description;
+
+            // Помечаем задачу как изменённую
+            _context.Entry(existingTask).State = EntityState.Modified;
+
+            // Сохраняем изменения в базе данных
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                return StatusCode(500, "Произошла ошибка при обновлении задачи.");
+            }
+
+            // Возвращаем успешный результат
+            return NoContent();
+
+
+
         }
         [HttpDelete("{id}")]
         public ActionResult RemoveTask(int id)
         {
 
-            TasksData.RemoveTask(id);
+            _context.MyTasks.Remove(_context.MyTasks.Find(id));
+            _context.SaveChangesAsync();
             return NoContent();
         }
 

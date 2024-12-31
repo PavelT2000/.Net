@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[TODOLIst.MyTask, TaskManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MyTask, TaskManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,13 +29,13 @@
     "Parameters": [
       {
         "Name": "newTask",
-        "Type": "TaskManager.Controllers.TaskController\u002BCreateTaskRequest",
+        "Type": "MyTask",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "TODOLIst.MyTask",
+        "Type": "MyTask",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "TODOLIst.MyTask",
+        "Type": "MyTask",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -86,7 +86,7 @@
       },
       {
         "Name": "updatedTask",
-        "Type": "TaskManager.Controllers.TaskController\u002BUpdateTaskRequest",
+        "Type": "MyTask",
         "IsRequired": true
       }
     ],

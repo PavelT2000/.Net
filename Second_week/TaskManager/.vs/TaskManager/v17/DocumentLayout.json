@@ -1,42 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\",
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\tasksdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\tasksdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\services\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\services\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\controllers\\authcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\authcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\taskmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\.net\\second_week\\taskmanager\\taskmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{492E6C8C-1148-4FD9-AFA6-A30852CFDB46}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,106 +62,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskManager\\appsettings.json",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\appsettings.json",
-              "RelativeToolTip": "TaskManager\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-28T12:36:18.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TaskManager\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "TaskManager\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Services\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Services\\AuthOptions.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Services\\AuthOptions.cs",
+              "RelativeToolTip": "TaskManager\\Services\\AuthOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T12:35:32.869Z",
+              "WhenOpened": "2024-12-31T09:07:28.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TaskManager\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TaskManager\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-27T20:09:11.745Z",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Person.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Models\\Person.cs*",
+              "RelativeToolTip": "TaskManager\\Models\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:02:59.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MyTask.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\MyTask.cs",
-              "RelativeDocumentMoniker": "TaskManager\\MyTask.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\MyTask.cs",
-              "RelativeToolTip": "TaskManager\\MyTask.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAwDwAAAAcAAAAAAAAAA==",
+              "Title": "AuthContoller.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Controllers\\AuthContoller.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\AuthContoller.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Controllers\\AuthContoller.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\AuthContoller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T19:55:52.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TasksData.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\TasksData.cs",
-              "RelativeDocumentMoniker": "TaskManager\\TasksData.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\TasksData.cs",
-              "RelativeToolTip": "TaskManager\\TasksData.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAIwC8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T19:29:16.586Z",
+              "WhenOpened": "2024-12-30T15:05:41.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Services\\TokenService.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Services\\TokenService.cs",
+              "RelativeToolTip": "TaskManager\\Services\\TokenService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:59:14.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Controllers\\TaskController.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "TaskManager\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Controllers\\TaskController.cs",
               "RelativeToolTip": "TaskManager\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T19:23:34.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TaskManager\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TaskManager\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T19:18:01.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Program.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeToolTip": "TaskManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T19:17:49.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskManager\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:35:32.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Models\\MyTask.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\MyTask.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Models\\MyTask.cs",
+              "RelativeToolTip": "TaskManager\\Models\\MyTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:16:18.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManager\\appsettings.json",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\appsettings.json",
+              "RelativeToolTip": "TaskManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T12:36:18.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskManager",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\TaskManager.csproj",
+              "RelativeDocumentMoniker": "TaskManager\\TaskManager.csproj",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\TaskManager.csproj",
+              "RelativeToolTip": "TaskManager\\TaskManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T12:07:37.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "TaskManager\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "TaskManager\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,15 +221,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Program.cs",
-              "RelativeDocumentMoniker": "TaskManager\\Program.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.NET\\Second_week\\TaskManager\\TaskManager\\Program.cs",
-              "RelativeToolTip": "TaskManager\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T19:17:49.141Z",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManager\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\.Net\\Second_week\\TaskManager\\TaskManager\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManager\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAABRwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T20:09:11.745Z",
               "EditorCaption": ""
             }
           ]

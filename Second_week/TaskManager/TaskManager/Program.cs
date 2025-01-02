@@ -9,6 +9,14 @@ using TaskManager.Services;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
+using TaskManager.Models;
+var people = new List<Person>
+{
+    new Person("bob@gmail.com","12345"),
+    new Person("tom@gmail.com","45345")
+
+
+};
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<AppDbContext>(options =>
@@ -49,20 +57,31 @@ var app = builder.Build();
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.Map("/login/{username}", (string username) =>
+
+app.Map("/data", [Authorize] () => new { message = "Hello World!" });
+app.MapPost("/login", (Person loginData) =>
 {
-    var claims = new List<Claim> { new Claim(ClaimTypes.Name, username) };
-    // создаем JWT-токен
+    // находим пользователя 
+    Person? person = people.FirstOrDefault(p => p.Email == loginData.Email && p.Password == loginData.Password);
+    // если пользователь не найден, отправляем статусный код 401
+    if (person is null) return Results.Unauthorized();
+    var claims = new List<Claim> { new Claim(ClaimTypes.Name, person.Password) };
     var jwt = new JwtSecurityToken(
             issuer: AuthOptions.ISSUER,
             audience: AuthOptions.AUDIENCE,
             claims: claims,
-            expires: DateTime.UtcNow.Add(TimeSpan.FromMinutes(2)),
+            expires: DateTime.UtcNow.Add(TimeSpan.FromMinutes(10)), // время действия 2 минуты
             signingCredentials: new SigningCredentials(AuthOptions.GetSymmetricSecurityKey(), SecurityAlgorithms.HmacSha256));
+    var encodedJwt = new JwtSecurityTokenHandler().WriteToken(jwt);
+    // формируем ответ
+    var response = new
+    {
+        access_token = encodedJwt,
+        username = person.Email
+    };
 
-    return new JwtSecurityTokenHandler().WriteToken(jwt);
+    return Results.Json(response);
 });
-app.Map("/data", [Authorize] () => new { message = "Hello World!" });
 
 
 // Configure the HTTP request pipeline.

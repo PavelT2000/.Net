@@ -4,7 +4,7 @@ namespace TaskManagerV2._0.Models
 {
     public class MyTask
     {
-        [Key] // Указывает, что это поле является первичным ключом
+        [Key] 
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Название задачи обязательно.")]
@@ -15,12 +15,12 @@ namespace TaskManagerV2._0.Models
         public string Description { get; set; }
 
         [Required]
-        public bool IsCompleted { get; set; } = false; // По умолчанию задача не выполнена
+        public bool IsCompleted { get; set; } = false; 
 
-        // Внешний ключ для связи с пользователем
+        
         public int UserId { get; set; }
 
-        // Навигационное свойство для связи с пользователем
+        
         public User User { get; set; }
     }
 }

@@ -21,7 +21,6 @@ namespace TaskManager.Controllers
             _jwtSecret = configuration["Jwt:Key"];
         }
 
-        // Регистрация нового пользователя
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] UserRegisterDto request)
         {
@@ -43,7 +42,6 @@ namespace TaskManager.Controllers
             return Ok("Пользователь успешно зарегистрирован.");
         }
 
-        // Вход в систему
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] UserLoginDto request)
         {
@@ -58,7 +56,7 @@ namespace TaskManager.Controllers
             return Ok(new { Token = token });
         }
 
-        // Генерация JWT токена
+        
         private string GenerateJwtToken(User user)
         {
             var tokenHandler = new JwtSecurityTokenHandler();

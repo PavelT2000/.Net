@@ -1,0 +1,7 @@
+C:\Учёба\.Net\6Task\6Task\bin\Debug\6Task.exe.config
+C:\Учёба\.Net\6Task\6Task\bin\Debug\6Task.exe
+C:\Учёба\.Net\6Task\6Task\bin\Debug\6Task.pdb
+C:\Учёба\.Net\6Task\6Task\obj\Debug\6Task.csproj.AssemblyReference.cache
+C:\Учёба\.Net\6Task\6Task\obj\Debug\6Task.csproj.CoreCompileInputs.cache
+C:\Учёба\.Net\6Task\6Task\obj\Debug\6Task.exe
+C:\Учёба\.Net\6Task\6Task\obj\Debug\6Task.pdb

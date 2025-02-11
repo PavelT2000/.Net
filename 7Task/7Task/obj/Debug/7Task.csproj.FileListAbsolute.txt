@@ -1,0 +1,7 @@
+C:\Учёба\.Net\7Task\7Task\bin\Debug\7Task.exe.config
+C:\Учёба\.Net\7Task\7Task\bin\Debug\7Task.exe
+C:\Учёба\.Net\7Task\7Task\bin\Debug\7Task.pdb
+C:\Учёба\.Net\7Task\7Task\obj\Debug\7Task.csproj.AssemblyReference.cache
+C:\Учёба\.Net\7Task\7Task\obj\Debug\7Task.csproj.CoreCompileInputs.cache
+C:\Учёба\.Net\7Task\7Task\obj\Debug\7Task.exe
+C:\Учёба\.Net\7Task\7Task\obj\Debug\7Task.pdb

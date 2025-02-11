@@ -1,0 +1,7 @@
+C:\Учёба\.Net\CorrectDays\CorrectDays\bin\Debug\CorrectDays.exe.config
+C:\Учёба\.Net\CorrectDays\CorrectDays\bin\Debug\CorrectDays.exe
+C:\Учёба\.Net\CorrectDays\CorrectDays\bin\Debug\CorrectDays.pdb
+C:\Учёба\.Net\CorrectDays\CorrectDays\obj\Debug\CorrectDays.csproj.AssemblyReference.cache
+C:\Учёба\.Net\CorrectDays\CorrectDays\obj\Debug\CorrectDays.csproj.CoreCompileInputs.cache
+C:\Учёба\.Net\CorrectDays\CorrectDays\obj\Debug\CorrectDays.exe
+C:\Учёба\.Net\CorrectDays\CorrectDays\obj\Debug\CorrectDays.pdb

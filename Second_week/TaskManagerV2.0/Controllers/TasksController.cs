@@ -45,7 +45,7 @@ public class TasksController : ControllerBase
         if (user == null)
             return Unauthorized("Пользователь не найден.");
 
-        task.UserId = userId; /
+        task.UserId = userId; 
         task.UserId = userId;
         task.User = user;
         _context.Tasks.Add(task);

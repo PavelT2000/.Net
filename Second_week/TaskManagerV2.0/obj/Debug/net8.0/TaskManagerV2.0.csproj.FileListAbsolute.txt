@@ -137,7 +137,6 @@ C:\Учёба\.Net\Second_week\TaskManagerV2.0\bin\Debug\net8.0\Microsoft.Identi
 C:\Учёба\.Net\Second_week\TaskManagerV2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Учёба\.Net\Second_week\TaskManagerV2.0\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\bin\Debug\net8.0\appsettings.Development.json
-C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\bin\Debug\net8.0\appsettings.json
 C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\bin\Debug\net8.0\TaskManagerV2.0.staticwebassets.endpoints.json
 C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\bin\Debug\net8.0\TaskManagerV2.0.exe
 C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\bin\Debug\net8.0\TaskManagerV2.0.deps.json

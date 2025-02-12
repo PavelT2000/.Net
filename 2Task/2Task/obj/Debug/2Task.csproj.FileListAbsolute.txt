@@ -1,0 +1,7 @@
+C:\Учёба\.Net\2Task\2Task\bin\Debug\2Task.exe.config
+C:\Учёба\.Net\2Task\2Task\bin\Debug\2Task.exe
+C:\Учёба\.Net\2Task\2Task\bin\Debug\2Task.pdb
+C:\Учёба\.Net\2Task\2Task\obj\Debug\2Task.csproj.AssemblyReference.cache
+C:\Учёба\.Net\2Task\2Task\obj\Debug\2Task.csproj.CoreCompileInputs.cache
+C:\Учёба\.Net\2Task\2Task\obj\Debug\2Task.exe
+C:\Учёба\.Net\2Task\2Task\obj\Debug\2Task.pdb

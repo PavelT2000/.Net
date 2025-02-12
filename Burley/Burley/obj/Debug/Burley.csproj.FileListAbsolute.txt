@@ -1,0 +1,7 @@
+C:\Учёба\.Net\Burley\Burley\bin\Debug\Burley.exe.config
+C:\Учёба\.Net\Burley\Burley\bin\Debug\Burley.exe
+C:\Учёба\.Net\Burley\Burley\bin\Debug\Burley.pdb
+C:\Учёба\.Net\Burley\Burley\obj\Debug\Burley.csproj.AssemblyReference.cache
+C:\Учёба\.Net\Burley\Burley\obj\Debug\Burley.csproj.CoreCompileInputs.cache
+C:\Учёба\.Net\Burley\Burley\obj\Debug\Burley.exe
+C:\Учёба\.Net\Burley\Burley\obj\Debug\Burley.pdb

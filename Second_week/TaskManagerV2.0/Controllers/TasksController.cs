@@ -30,22 +30,22 @@ public class TasksController : ControllerBase
         return Ok(user.Tasks);
     }
 
-    // Добавить задачу
+   
     [HttpPost("add")]
-    [Authorize] // Требуется аутентификация
+    [Authorize]
     public IActionResult AddTask([FromBody] MyTaskDTO taskRequest)
     {
         var task = new MyTask();
         task.Title = taskRequest.name;
         task.Description = taskRequest.description;
-        // Получение UserId из токена
+      
         var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
 
         var user = _context.Users.Include(u => u.Tasks).FirstOrDefault(u => u.Id == userId);
         if (user == null)
             return Unauthorized("Пользователь не найден.");
 
-        task.UserId = userId; // Привязываем задачу к текущему пользователю
+        task.UserId = userId; /
         task.UserId = userId;
         task.User = user;
         _context.Tasks.Add(task);

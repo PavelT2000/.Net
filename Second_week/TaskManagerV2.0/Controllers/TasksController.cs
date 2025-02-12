@@ -53,6 +53,20 @@ public class TasksController : ControllerBase
 
         return Ok("Успещно добавлено");
     }
+    [Authorize]
+    [HttpDelete("Delete/{Id}")]
+    public IActionResult RemoveTask(int Id)
+    {
+        var task =_context.Tasks.Find(Id);
+        var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
+
+        if (task == null || task.UserId!=userId) return NotFound("Задача не найдена");
+        
+        _context.Tasks.Remove(task);
+        _context.SaveChanges();
+        return Ok("Задача удалена");
+
+    }
 
     public class MyTaskDTO
     {

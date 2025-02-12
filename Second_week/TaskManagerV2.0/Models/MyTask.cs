@@ -21,6 +21,6 @@ namespace TaskManagerV2._0.Models
         public int UserId { get; set; }
 
         // Навигационное свойство для связи с пользователем
-        public User User { get; set; }
+        public User User;
     }
 }

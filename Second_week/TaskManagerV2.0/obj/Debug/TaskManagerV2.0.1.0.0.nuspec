@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TaskManagerV2.0</id>
+    <version>1.0.0</version>
+    <authors>TaskManagerV2.0</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="11932b9dd8e212525222889e466422cb7c685c65" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="BCrypt.Net-Next" version="4.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.OpenApi" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.4.0" exclude="Build,Analyzers" />
+        <dependency id="System.IdentityModel.Tokens.Jwt" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0/appsettings.Development.json" buildAction="Content" />
+      <files include="any/net8.0/appsettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\bin\Debug\net8.0\TaskManagerV2.0.runtimeconfig.json" target="lib\net8.0\TaskManagerV2.0.runtimeconfig.json" />
+    <file src="C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\bin\Debug\net8.0\TaskManagerV2.0.dll" target="lib\net8.0\TaskManagerV2.0.dll" />
+    <file src="C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\appsettings.Development.json" target="content\appsettings.Development.json" />
+    <file src="C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\appsettings.Development.json" target="contentFiles\any\net8.0\appsettings.Development.json" />
+    <file src="C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\appsettings.json" target="content\appsettings.json" />
+    <file src="C:\Учёба\.NET\.Net\Second_week\TaskManagerV2.0\appsettings.json" target="contentFiles\any\net8.0\appsettings.json" />
+  </files>
+</package>

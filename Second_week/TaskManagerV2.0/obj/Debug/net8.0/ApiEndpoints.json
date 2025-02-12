@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "TasksController",
+    "Method": "RemoveTask",
+    "RelativePath": "api/Tasks/Delete/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksController",
     "Method": "GetTasksByUserId",
     "RelativePath": "api/Tasks/user",
     "HttpMethod": "GET",

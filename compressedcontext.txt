@@ -1,0 +1,659 @@
+=== PROJECT HIERARCHY ===
+├── .aiignore
+├── .gitattributes
+├── .gitignore
+├── 1Task
+│   └── 1Task
+│       ├── 1Task.csproj
+│       ├── App.config
+│       ├── Program.cs
+│       └── Properties
+│           └── AssemblyInfo.cs
+├── 2Task
+│   └── 2Task
+│       ├── 2Task.csproj
+│       ├── App.config
+│       ├── Program.cs
+│       └── Properties
+│           └── AssemblyInfo.cs
+├── 5Task
+│   └── 5Task
+│       ├── 5Task.csproj
+│       ├── App.config
+│       ├── Program.cs
+│       └── Properties
+│           └── AssemblyInfo.cs
+├── 6Task
+│   └── 6Task
+│       ├── 6Task.csproj
+│       ├── App.config
+│       ├── Program.cs
+│       └── Properties
+│           └── AssemblyInfo.cs
+├── 7Task
+│   └── 7Task
+│       ├── 7Task.csproj
+│       ├── App.config
+│       ├── Program.cs
+│       └── Properties
+│           └── AssemblyInfo.cs
+├── Burley
+│   └── Burley
+│       ├── App.config
+│       ├── Burley.csproj
+│       ├── Program.cs
+│       └── Properties
+│           └── AssemblyInfo.cs
+├── CorrectDays
+│   └── CorrectDays
+│       ├── App.config
+│       ├── CorrectDays.csproj
+│       ├── Program.cs
+│       └── Properties
+│           └── AssemblyInfo.cs
+├── First_week
+│   ├── Projects
+│   │   ├── Books
+│   │   │   └── Books
+│   │   │       ├── App.config
+│   │   │       ├── Book.cs
+│   │   │       ├── Books.csproj
+│   │   │       ├── Program.cs
+│   │   │       └── Properties
+│   │   │           └── AssemblyInfo.cs
+│   │   ├── Calculator
+│   │   │   └── Calculator
+│   │   │       ├── App.config
+│   │   │       ├── Calculator.csproj
+│   │   │       ├── Program.cs
+│   │   │       └── Properties
+│   │   │           └── AssemblyInfo.cs
+│   │   ├── IsOdd
+│   │   │   └── IsOdd
+│   │   │       ├── App.config
+│   │   │       ├── IsOdd.csproj
+│   │   │       ├── Program.cs
+│   │   │       └── Properties
+│   │   │           └── AssemblyInfo.cs
+│   │   ├── Loading
+│   │   │   └── Loading
+│   │   │       ├── App.config
+│   │   │       ├── Loading.csproj
+│   │   │       ├── Program.cs
+│   │   │       └── Properties
+│   │   │           └── AssemblyInfo.cs
+│   │   ├── MasSum
+│   │   │   └── MasSum
+│   │   │       ├── App.config
+│   │   │       ├── MasSum.csproj
+│   │   │       ├── Program.cs
+│   │   │       └── Properties
+│   │   │           └── AssemblyInfo.cs
+│   │   ├── MaxValue
+│   │   │   └── MaxValue
+│   │   │       ├── App.config
+│   │   │       ├── MaxValue.csproj
+│   │   │       ├── Program.cs
+│   │   │       └── Properties
+│   │   │           └── AssemblyInfo.cs
+│   │   ├── PasswordGenerator
+│   │   │   └── PasswordGenerator
+│   │   │       ├── App.config
+│   │   │       ├── PasswordGenerator.csproj
+│   │   │       ├── Program.cs
+│   │   │       └── Properties
+│   │   │           └── AssemblyInfo.cs
+│   │   ├── PersonSays
+│   │   │   └── PersonSays
+│   │   │       ├── App.config
+│   │   │       ├── Person.cs
+│   │   │       ├── PersonSays.csproj
+│   │   │       ├── Program.cs
+│   │   │       └── Properties
+│   │   │           └── AssemblyInfo.cs
+│   │   ├── Ready
+│   │   │   └── Ready
+│   │   │       ├── App.config
+│   │   │       ├── Program.cs
+│   │   │       ├── Properties
+│   │   │       │   └── AssemblyInfo.cs
+│   │   │       └── Ready.csproj
+│   │   ├── TODOLIst
+│   │   │   └── TODOLIst
+│   │   │       ├── App.config
+│   │   │       ├── App.cs
+│   │   │       ├── Program.cs
+│   │   │       ├── Properties
+│   │   │       │   └── AssemblyInfo.cs
+│   │   │       ├── TODOLIst.csproj
+│   │   │       ├── Task.cs
+│   │   │       └── packages.config
+│   │   ├── TextFileReader
+│   │   │   └── TextFileReader
+│   │   │       ├── App.config
+│   │   │       ├── FileReader.cs
+│   │   │       ├── Program.cs
+│   │   │       ├── Properties
+│   │   │       │   └── AssemblyInfo.cs
+│   │   │       └── TextFileReader.csproj
+│   │   ├── ThreeDividingNumbers
+│   │   │   └── ThreeDividingNumbers
+│   │   │       ├── App.config
+│   │   │       ├── Program.cs
+│   │   │       ├── Properties
+│   │   │       │   └── AssemblyInfo.cs
+│   │   │       └── ThreeDividingNumbers.csproj
+│   │   ├── UserData
+│   │   │   └── UserData
+│   │   │       ├── App.config
+│   │   │       ├── Program.cs
+│   │   │       ├── Properties
+│   │   │       │   └── AssemblyInfo.cs
+│   │   │       ├── User.cs
+│   │   │       └── UserData.csproj
+│   │   └── ZereDividingCheck
+│   │       └── ZereDividingCheck
+│   │           ├── App.config
+│   │           ├── Program.cs
+│   │           ├── Properties
+│   │           │   └── AssemblyInfo.cs
+│   │           └── ZereDividingCheck.csproj
+│   ├── README.md
+│   └── README.pdf
+├── ProgTask
+│   └── ProgTask
+│       ├── ProgTask.cpp
+│       ├── ProgTask.vcxproj
+│       └── ProgTask.vcxproj.filters
+├── Projects
+│   ├── Books
+│   │   └── Books
+│   │       ├── App.config
+│   │       ├── Book.cs
+│   │       ├── Books.csproj
+│   │       ├── Program.cs
+│   │       └── Properties
+│   │           └── AssemblyInfo.cs
+│   ├── Calculator
+│   │   └── Calculator
+│   │       ├── App.config
+│   │       ├── Calculator.csproj
+│   │       ├── Program.cs
+│   │       └── Properties
+│   │           └── AssemblyInfo.cs
+│   ├── IsOdd
+│   │   └── IsOdd
+│   │       ├── App.config
+│   │       ├── IsOdd.csproj
+│   │       ├── Program.cs
+│   │       └── Properties
+│   │           └── AssemblyInfo.cs
+│   ├── Loading
+│   │   └── Loading
+│   │       ├── App.config
+│   │       ├── Loading.csproj
+│   │       ├── Program.cs
+│   │       └── Properties
+│   │           └── AssemblyInfo.cs
+│   ├── MasSum
+│   │   └── MasSum
+│   │       ├── App.config
+│   │       ├── MasSum.csproj
+│   │       ├── Program.cs
+│   │       └── Properties
+│   │           └── AssemblyInfo.cs
+│   ├── MaxValue
+│   │   └── MaxValue
+│   │       ├── App.config
+│   │       ├── MaxValue.csproj
+│   │       ├── Program.cs
+│   │       └── Properties
+│   │           └── AssemblyInfo.cs
+│   ├── PasswordGenerator
+│   │   └── PasswordGenerator
+│   │       ├── App.config
+│   │       ├── PasswordGenerator.csproj
+│   │       ├── Program.cs
+│   │       └── Properties
+│   │           └── AssemblyInfo.cs
+│   ├── PersonSays
+│   │   └── PersonSays
+│   │       ├── App.config
+│   │       ├── Person.cs
+│   │       ├── PersonSays.csproj
+│   │       ├── Program.cs
+│   │       └── Properties
+│   │           └── AssemblyInfo.cs
+│   ├── Ready
+│   │   └── Ready
+│   │       ├── App.config
+│   │       ├── Program.cs
+│   │       ├── Properties
+│   │       │   └── AssemblyInfo.cs
+│   │       └── Ready.csproj
+│   ├── TextFileReader
+│   │   └── TextFileReader
+│   │       ├── App.config
+│   │       ├── FileReader.cs
+│   │       ├── Program.cs
+│   │       ├── Properties
+│   │       │   └── AssemblyInfo.cs
+│   │       └── TextFileReader.csproj
+│   ├── ThreeDividingNumbers
+│   │   └── ThreeDividingNumbers
+│   │       ├── App.config
+│   │       ├── Program.cs
+│   │       ├── Properties
+│   │       │   └── AssemblyInfo.cs
+│   │       └── ThreeDividingNumbers.csproj
+│   └── ZereDividingCheck
+│       └── ZereDividingCheck
+│           ├── App.config
+│           ├── Program.cs
+│           ├── Properties
+│           │   └── AssemblyInfo.cs
+│           └── ZereDividingCheck.csproj
+├── README.md
+├── Second_week
+│   ├── MyFirstApi
+│   │   ├── MyFirstApi.csproj
+│   │   ├── MyFirstApi.http
+│   │   ├── Program.cs
+│   │   ├── Properties
+│   │   │   └── launchSettings.json
+│   │   ├── appsettings.Development.json
+│   │   └── appsettings.json
+│   ├── README.md
+│   ├── TaskManager
+│   │   └── TaskManager
+│   │       ├── Controllers
+│   │       │   ├── HomeController.cs
+│   │       │   └── TaskController.cs
+│   │       ├── Data
+│   │       │   └── AppDbContext.cs
+│   │       ├── Migrations
+│   │       │   ├── 20241229081953_InitialCreate.Designer.cs
+│   │       │   ├── 20241229081953_InitialCreate.cs
+│   │       │   ├── 20241229174228_2Create.Designer.cs
+│   │       │   ├── 20241229174228_2Create.cs
+│   │       │   ├── 20241230111629_MyTaskV2Add.Designer.cs
+│   │       │   ├── 20241230111629_MyTaskV2Add.cs
+│   │       │   └── AppDbContextModelSnapshot.cs
+│   │       ├── Models
+│   │       │   ├── ErrorViewModel.cs
+│   │       │   └── MyTask.cs
+│   │       ├── Person.cs
+│   │       ├── Program.cs
+│   │       ├── Properties
+│   │       │   └── launchSettings.json
+│   │       ├── Services
+│   │       │   ├── AuthOptions.cs
+│   │       │   └── TokenService.cs
+│   │       ├── TaskManager.csproj
+│   │       ├── Views
+│   │       │   ├── Home
+│   │       │   │   ├── Index.cshtml
+│   │       │   │   └── Privacy.cshtml
+│   │       │   ├── Shared
+│   │       │   │   ├── Error.cshtml
+│   │       │   │   ├── _Layout.cshtml
+│   │       │   │   ├── _Layout.cshtml.css
+│   │       │   │   └── _ValidationScriptsPartial.cshtml
+│   │       │   ├── _ViewImports.cshtml
+│   │       │   └── _ViewStart.cshtml
+│   │       ├── appsettings.Development.json
+│   │       ├── appsettings.json
+│   │       └── wwwroot
+│   │           ├── css
+│   │           │   └── site.css
+│   │           ├── favicon.ico
+│   │           └── js
+│   │               └── site.js
+│   └── TaskManagerV2.0
+│       ├── Controllers
+│       │   ├── TasksController.cs
+│       │   ├── TestController.cs
+│       │   └── UsersController.cs
+│       ├── Data
+│       │   └── AppDbContext.cs
+│       ├── Migrations
+│       │   ├── 20250102085113_InitialCreate.Designer.cs
+│       │   ├── 20250102085113_InitialCreate.cs
+│       │   ├── 20250102095219_Update1.Designer.cs
+│       │   ├── 20250102095219_Update1.cs
+│       │   ├── 20250102095928_Update2.Designer.cs
+│       │   ├── 20250102095928_Update2.cs
+│       │   └── AppDbContextModelSnapshot.cs
+│       ├── Models
+│       │   ├── MyTask.cs
+│       │   └── User.cs
+│       ├── Program.cs
+│       ├── Properties
+│       │   ├── PublishProfiles
+│       │   │   └── IISProfile.pubxml
+│       │   └── launchSettings.json
+│       ├── TaskManagerV2.0.csproj
+│       ├── TaskManagerV2.0.http
+│       └── appsettings.Development.json
+├── TODOLIst
+│   └── TODOLIst
+│       ├── App.config
+│       ├── App.cs
+│       ├── Program.cs
+│       ├── Properties
+│       │   └── AssemblyInfo.cs
+│       ├── TODOLIst.csproj
+│       ├── Task.cs
+│       └── packages.config
+├── Trash
+│   ├── TasksController.cs
+│   └── TasksData.cs
+└── aicontext.txt
+
+=== SOURCE CODE ===
+
+--- FILE: First_week\README.md ---
+# Неделя 1
+
+За первую неделю я изучил
+
+- **День 1: Основы синтаксиса C#** 
+  - 
+  *Типы данных, Nullable, ветвления и циклы*
+  - [IsOdd](Releases/IsOdd.exe)
+  - [ThreeDividingNumbers](Releases/ThreeDividingNumbers.exe)
+  - [Calculator](Releases/Calculator.exe)
+- **День 2: Методы, функции и массивы**
+  - 
+  *Методы (создание, перегрузкиб передача параметров по ссылке)*
+  *Массивы и колекции (одномерные, двумерные массивы, колекции)*
+  - [MasSum](Releases/MasSum.exe)
+  - [MaxValue](Releases/MaxValue.exe)
+  - [PasswordGenerator](Releases/PasswordGenerator.exe)
+- **День 3: Классы и ООП (Объектно-ориентированное программирование)**
+  - 
+  *Классы и объекты, ООП принципы*
+  - [PersonSays](Releases/PersonSays.exe)
+  - [Books](Releases/Books.exe)
+- **День 4: Инкапсуляция и работа с файлами**
+  - 
+  - [UserData](Releases/UserData.exe)
+  - [TODOList](Releases/TODOList/TODOLIst.exe)
+- **День 5: Исключения и отладка**
+  - 
+  *Ключевые слова: try, catch, finally, throw. Собственные исключения*
+  - [ZeroDividingCheck](Releases/ZereDividingCheck.exe)
+  - [TextFileReader](Releases/TextFileReader.exe)
+- **День 6: Асинхронное программирование (async/await)**
+  - 
+  - [Loading](Releases/Loading.exe)
+- **День 7: Итоги недели**
+  - 
+    *Пройдены основы C#*
+  - [Итоговый проект:TODOList](Releases/TODOList/TODOLIst.exe)
+
+
+  
+
+--- FILE: Second_week\README.md ---
+# Неделя 2
+
+За Вторую неделю я изучил
+
+- **День 1: Введение в ASP.NET Core и архитектуру** 
+  - 
+  - *Что такое ASP.NET Core?*
+  - *Архитектура ASP.NET Core*
+  
+- **День 2: Контроллеры и маршрутизация**
+  - 
+  - *Атрибуты `Route` и `HttpGet`, `HttpPost`, `HttpPut`, `HttpDelete`.*
+  - *Маршруты с параметрами `(api/tasks/{id})`.*
+  - *Параметры запроса (`QueryString` и `FromBody`).*
+
+
+- **День 3: Entity Framework Core и работа с базой данных**
+  - 
+  - *Миграции*
+  - *CRUD через EF Core*
+- **День 4: Валидация моделей и ответов API**
+  - 
+  - *Data Annotations `[Required]`, `[StringLength]`, `[Range]`, `[EmailAddress]`*
+  - *Обработка ошибок*
+    - HTTP-статусы (200, 404, 500 и т.д.).
+    - Возврат понятных сообщений об ошибках через `BadRequest`, `NotFound`, `Ok`.
+  
+- **День 5: JWT-аутентификация**
+  - 
+  - *Что такое JWT (JSON Web Token)?*
+  - *Добавление JWT в проект*
+  
+- **День 6: Улучшение API**
+  - 
+  
+
+- **День 7: Итоги недели**
+  - 
+  - Итоговый проект TaskManager2.0
+    
+
+
+  
+
+--- FILE: Second_week\TaskManagerV2.0\Program.cs ---
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using TaskManagerV2._0.Data;
+
+
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddAuthorization();
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+
+})
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"].ToString())),
+        ValidateIssuer = false,
+        ValidateAudience = false
+    };
+});
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddControllers();
+
+
+
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+app.UseAuthentication();
+app.UseAuthorization();
+
+app.UseHttpsRedirection();
+app.MapControllers();
+
+
+
+app.Run();
+
+
+
+--- FILE: Second_week\TaskManagerV2.0\Controllers\TasksController.cs ---
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
+using System.Security.Claims;
+using TaskManagerV2._0.Data;
+using TaskManagerV2._0.Models;
+
+[ApiController]
+[Route("api/[controller]")]
+public class TasksController : ControllerBase
+{
+    private readonly AppDbContext _context;
+
+    public TasksController(AppDbContext context)
+    {
+        _context = context;
+    }
+
+    // Получить список задач пользователя
+    [HttpGet("user")]
+    [Authorize]
+    public IActionResult GetTasksByUserId()
+    {
+        var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
+        var user = _context.Users.Include(u => u.Tasks).FirstOrDefault(u => u.Id == userId);
+        if (user == null)
+            return NotFound("Пользователь не найден.");
+
+        return Ok(user.Tasks);
+    }
+
+   
+    [HttpPost("add")]
+    [Authorize]
+    public IActionResult AddTask([FromBody] MyTaskDTO taskRequest)
+    {
+        var task = new MyTask();
+        task.Title = taskRequest.name;
+        task.Description = taskRequest.description;
+      
+        var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
+
+        var user = _context.Users.Include(u => u.Tasks).FirstOrDefault(u => u.Id == userId);
+        if (user == null)
+            return Unauthorized("Пользователь не найден.");
+
+        task.UserId = userId; 
+        task.UserId = userId;
+        task.User = user;
+        _context.Tasks.Add(task);
+        _context.SaveChanges();
+
+        return Ok("Успещно добавлено");
+    }
+    [Authorize]
+    [HttpDelete("Delete/{Id}")]
+    public IActionResult RemoveTask(int Id)
+    {
+        var task =_context.Tasks.Find(Id);
+        var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
+
+        if (task == null || task.UserId!=userId) return NotFound("Задача не найдена");
+        
+        _context.Tasks.Remove(task);
+        _context.SaveChanges();
+        return Ok("Задача удалена");
+
+    }
+
+    public class MyTaskDTO
+    {
+        public string name { get; set; }
+        public string description { get; set; }
+        
+    }
+}
+
+
+--- FILE: Second_week\TaskManagerV2.0\Models\MyTask.cs ---
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace TaskManagerV2._0.Models
+{
+    public class MyTask
+    {
+        [Key] // Указывает, что это поле является первичным ключом
+        public int Id { get; set; }
+
+        [Required(ErrorMessage = "Название задачи обязательно.")]
+        [StringLength(100, ErrorMessage = "Название задачи не должно превышать 100 символов.")]
+        public string Title { get; set; }
+
+        [StringLength(500, ErrorMessage = "Описание задачи не должно превышать 500 символов.")]
+        public string Description { get; set; }
+
+        [Required]
+        public bool IsCompleted { get; set; } = false; // По умолчанию задача не выполнена
+
+        // Внешний ключ для связи с пользователем
+        public int UserId { get; set; }
+
+        // Навигационное свойство для связи с пользователем
+        public User User;
+    }
+}
+
+
+--- FILE: Second_week\TaskManagerV2.0\Data\AppDbContext.cs ---
+﻿using Microsoft.EntityFrameworkCore;
+using TaskManagerV2._0.Models;
+
+namespace TaskManagerV2._0.Data
+{
+    public class AppDbContext: DbContext
+    {
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+        public DbSet<User> Users { get; set; }
+        public DbSet<MyTask> Tasks { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<MyTask>()
+                .HasOne(t => t.User)
+                .WithMany(u => u.Tasks)
+                .HasForeignKey(t => t.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
+        }
+    }
+}
+
+
+--- FILE: Second_week\TaskManagerV2.0\TaskManagerV2.0.csproj ---
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+	<IsPackable>true</IsPackable>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>TaskManagerV2._0</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>

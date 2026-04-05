@@ -1,0 +1,53 @@
+# Build and Output Directories
+**/bin/
+**/obj/
+**/Releases/
+**/publish/
+
+# Visual Studio / IDE Settings
+**/.vs/
+**/.suo
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+**/.vs/ProjectEvaluation/
+
+# Dependencies
+**/packages/
+**/node_modules/
+**/lib/
+
+# Database and Temporary Files
+**/*.db
+**/*.db-shm
+**/*.db-wal
+**/*.log
+**/*.tmp
+**/*.cache
+**/*.vsidx
+**/*.ipch
+**/*.pdb
+
+# Build Artifacts and Metadata
+**/*.nupkg
+**/*.dtbcache
+**/*.futdcache
+**/*.generated.cs
+**/*.g.cs
+**/*.AssemblyAttributes.cs
+**/*.FileListAbsolute.txt
+**/*.CoreCompileInputs.cache
+**/*.AssemblyReference.cache
+**/*.DesignTimeResolveAssemblyReferencesInput.cache
+**/*.staticwebassets.*
+**/*.build.json
+**/*.endpoints.json
+**/*.genruntimeconfig.cache
+**/*.sourcelink.json
+**/*.rz.scp.css
+**/*.bundle.scp.css
+**/*.styles.css
+
+# OS Files
+.DS_Store
+Thumbs.db
